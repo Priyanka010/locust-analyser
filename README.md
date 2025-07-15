@@ -1,4 +1,4 @@
-# Locust Analyzer API (PDF Support)
+# Locust Analyser API (PDF Support)
 
 This FastAPI service accepts a **PDF Locust report**, extracts text using `pdfplumber`, and analyzes it using Vertex AI's Gemini model.
 
