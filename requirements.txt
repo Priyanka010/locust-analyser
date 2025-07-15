@@ -1,0 +1,9 @@
+streamlit
+fastapi
+uvicorn
+pandas
+pdfplumber
+google-cloud-aiplatform
+vertexai
+python-multipart==0.0.20
+tabulate
