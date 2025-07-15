@@ -5,7 +5,7 @@ This FastAPI service accepts a **PDF Locust report**, extracts performance data 
 
 ---
 
-Want to understand teh repo? Here's a detailed documentation - https://deepwiki.com/Priyanka010/locust-analyzer/1-overview
+Want to understand the repo? Here's a detailed documentation - https://deepwiki.com/Priyanka010/locust-analyzer/1-overview
 
 
 ## 🛠 Local Development
